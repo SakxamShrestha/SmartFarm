@@ -1,4 +1,4 @@
-//Interfacing Soil NPK Sensor with Arduino
+# Interfacing Soil NPK Sensor with Arduino
 import serial
 import time
 
@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
 
 
-//  Soil Moisture Sensor
+# Soil Moisture Sensor
 import serial
 import time
 
@@ -130,7 +130,7 @@ if __name__ == "__main__":
 
 
 
-//DHT11 and DHT22 temperature and humidity Sensors with Arduino
+# DHT11 and DHT22 temperature and humidity Sensors with Arduino
 
 import Adafruit_DHT
 import time
